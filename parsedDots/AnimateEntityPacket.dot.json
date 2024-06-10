@@ -1,0 +1,725 @@
+[
+  {
+    "type": "digraph",
+    "children": [
+      {
+        "type": "attr_stmt",
+        "target": "graph",
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "rankdir",
+            "eq": "LR"
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 1
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 1
+          },
+          {
+            "type": "node_id",
+            "id": 2
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 3
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 3
+          },
+          {
+            "type": "node_id",
+            "id": 4
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 5
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 5
+          },
+          {
+            "type": "node_id",
+            "id": 6
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 7
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 7
+          },
+          {
+            "type": "node_id",
+            "id": 8
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 9
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 9
+          },
+          {
+            "type": "node_id",
+            "id": 10
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 11
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 11
+          },
+          {
+            "type": "node_id",
+            "id": 12
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 13
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 13
+          },
+          {
+            "type": "node_id",
+            "id": 14
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 14
+          },
+          {
+            "type": "node_id",
+            "id": 15
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 13
+          },
+          {
+            "type": "node_id",
+            "id": 16
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 16
+          },
+          {
+            "type": "node_id",
+            "id": 17
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 17
+          },
+          {
+            "type": "node_id",
+            "id": 18
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "AnimateEntityPacket"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"AnimateEntityPacket\", typeName: \"\", id: 0, branchId: 158, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 1
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "mAnimation"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"mAnimation\", typeName: \"\", id: 1, branchId: 0, recurseId: -1, attributes: 0, notes: \"The name of the animation that the specified entities are to play.\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 2
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "string"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"string\", typeName: \"\", id: 2, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 3
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "mNextState"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"mNextState\", typeName: \"\", id: 3, branchId: 0, recurseId: -1, attributes: 0, notes: \"The next state to transition to once the specified animation is finished playing.\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 4
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "string"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"string\", typeName: \"\", id: 4, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 5
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "mStopExpression"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"mStopExpression\", typeName: \"\", id: 5, branchId: 0, recurseId: -1, attributes: 0, notes: \"The stop expression, the the condition that determines when to transition to the next state.\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 6
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "string"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"string\", typeName: \"\", id: 6, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 7
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Stop expression molang version"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Stop expression molang version\", typeName: \"\", id: 7, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 8
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "int"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"int\", typeName: \"\", id: 8, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 9
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "mController"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"mController\", typeName: \"\", id: 9, branchId: 0, recurseId: -1, attributes: 0, notes: \"The name of an animation controller\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 10
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "string"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"string\", typeName: \"\", id: 10, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 11
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "mBlendOutTime"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"mBlendOutTime\", typeName: \"\", id: 11, branchId: 0, recurseId: -1, attributes: 0, notes: \"The amount of time to blend out of this animation\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 12
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "float"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"float\", typeName: \"\", id: 12, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 13
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "mRuntimeIds"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"mRuntimeIds\", typeName: \"\", id: 13, branchId: 0, recurseId: -1, attributes: 8, notes: \"ActorRuntimeIDs of the entities that will play the specified animation\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 14
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Array Size"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Array Size\", typeName: \"\", id: 14, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 15
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "unsigned varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"unsigned varint\", typeName: \"\", id: 15, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 16
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "example element"
+          },
+          {
+            "type": "attr",
+            "id": "style",
+            "eq": "dotted"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"example element\", typeName: \"\", id: 16, branchId: 0, recurseId: -1, attributes: 16, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 17
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "runtimeId"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"runtimeId\", typeName: \"ActorRuntimeID\", id: 17, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 18
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "ActorRuntimeID"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"ActorRuntimeID\", typeName: \"\", id: 18, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "subgraph",
+        "children": [
+          {
+            "type": "attr_stmt",
+            "target": "graph",
+            "attr_list": [
+              {
+                "type": "attr",
+                "id": "rank",
+                "eq": "max"
+              }
+            ]
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 2
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 4
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 6
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 8
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 10
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 12
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 15
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 18
+            },
+            "attr_list": []
+          }
+        ]
+      }
+    ],
+    "id": "AnimateEntityPacket"
+  }
+]

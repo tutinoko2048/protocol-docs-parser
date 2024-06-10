@@ -1,0 +1,12 @@
+digraph "NetworkPermissions" {
+rankdir = LR
+199
+199 -> 200
+200 -> 201
+
+199 [label="NetworkPermissions",comment="name: \"NetworkPermissions\", typeName: \"\", id: 199, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""];
+200 [label="serverAuthSoundEnabled",comment="name: \"serverAuthSoundEnabled\", typeName: \"\", id: 200, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""];
+201 [label="bool",comment="name: \"bool\", typeName: \"\", id: 201, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""];
+{ rank = max;201}
+
+}

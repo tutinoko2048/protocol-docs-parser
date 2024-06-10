@@ -1,0 +1,802 @@
+[
+  {
+    "type": "digraph",
+    "children": [
+      {
+        "type": "attr_stmt",
+        "target": "graph",
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "rankdir",
+            "eq": "LR"
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 1
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 1
+          },
+          {
+            "type": "node_id",
+            "id": 2
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 3
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 3
+          },
+          {
+            "type": "node_id",
+            "id": 4
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 5
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 5
+          },
+          {
+            "type": "node_id",
+            "id": 6
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 7
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 7
+          },
+          {
+            "type": "node_id",
+            "id": 8
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 9
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 9
+          },
+          {
+            "type": "node_id",
+            "id": 10
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 11
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 11
+          },
+          {
+            "type": "node_id",
+            "id": 12
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 13
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 13
+          },
+          {
+            "type": "node_id",
+            "id": 14
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 15
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 15
+          },
+          {
+            "type": "node_id",
+            "id": 16
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 17
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 17
+          },
+          {
+            "type": "node_id",
+            "id": 18
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 19
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 19
+          },
+          {
+            "type": "node_id",
+            "id": 20
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "UpdateTradePacket"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"UpdateTradePacket\", typeName: \"\", id: 0, branchId: 80, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 1
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Container Id"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Container Id\", typeName: \"\", id: 1, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 2
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "byte"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"byte\", typeName: \"\", id: 2, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 3
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Container Type"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Container Type\", typeName: \"\", id: 3, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 4
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "byte"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"byte\", typeName: \"\", id: 4, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 5
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Size"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Size\", typeName: \"\", id: 5, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 6
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"varint\", typeName: \"\", id: 6, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 7
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Trade Tier"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Trade Tier\", typeName: \"\", id: 7, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 8
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"varint\", typeName: \"\", id: 8, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 9
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Target Actor ID"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Target Actor ID\", typeName: \"ActorUniqueID\", id: 9, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 10
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "ActorUniqueID"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"ActorUniqueID\", typeName: \"\", id: 10, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 11
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Last Trading Player ID"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Last Trading Player ID\", typeName: \"ActorUniqueID\", id: 11, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 12
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "ActorUniqueID"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"ActorUniqueID\", typeName: \"\", id: 12, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 13
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Display Name"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Display Name\", typeName: \"\", id: 13, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 14
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "string"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"string\", typeName: \"\", id: 14, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 15
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Use New Trade UI"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Use New Trade UI\", typeName: \"\", id: 15, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 16
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "bool"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"bool\", typeName: \"\", id: 16, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 17
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Using Economy Trade"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Using Economy Trade\", typeName: \"\", id: 17, branchId: 0, recurseId: -1, attributes: 0, notes: \"When set to false, it means the packet comes from the old Trade Component.\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 18
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "bool"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"bool\", typeName: \"\", id: 18, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 19
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Data Tags"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Data Tags\", typeName: \"CompoundTag\", id: 19, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 20
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "CompoundTag"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"CompoundTag\", typeName: \"\", id: 20, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "subgraph",
+        "children": [
+          {
+            "type": "attr_stmt",
+            "target": "graph",
+            "attr_list": [
+              {
+                "type": "attr",
+                "id": "rank",
+                "eq": "max"
+              }
+            ]
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 2
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 4
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 6
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 8
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 10
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 12
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 14
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 16
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 18
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 20
+            },
+            "attr_list": []
+          }
+        ]
+      }
+    ],
+    "id": "UpdateTradePacket"
+  }
+]

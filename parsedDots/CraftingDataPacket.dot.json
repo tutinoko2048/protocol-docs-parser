@@ -1,0 +1,1012 @@
+[
+  {
+    "type": "digraph",
+    "children": [
+      {
+        "type": "attr_stmt",
+        "target": "graph",
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "rankdir",
+            "eq": "LR"
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 1
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 1
+          },
+          {
+            "type": "node_id",
+            "id": 2
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 2
+          },
+          {
+            "type": "node_id",
+            "id": 3
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 1
+          },
+          {
+            "type": "node_id",
+            "id": 4
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 4
+          },
+          {
+            "type": "node_id",
+            "id": 5
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 5
+          },
+          {
+            "type": "node_id",
+            "id": 6
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 7
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 7
+          },
+          {
+            "type": "node_id",
+            "id": 8
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 8
+          },
+          {
+            "type": "node_id",
+            "id": 9
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 7
+          },
+          {
+            "type": "node_id",
+            "id": 10
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 10
+          },
+          {
+            "type": "node_id",
+            "id": 11
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 11
+          },
+          {
+            "type": "node_id",
+            "id": 25
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 26
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 26
+          },
+          {
+            "type": "node_id",
+            "id": 27
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 27
+          },
+          {
+            "type": "node_id",
+            "id": 28
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 26
+          },
+          {
+            "type": "node_id",
+            "id": 29
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 29
+          },
+          {
+            "type": "node_id",
+            "id": 30
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 30
+          },
+          {
+            "type": "node_id",
+            "id": 38
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 39
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 39
+          },
+          {
+            "type": "node_id",
+            "id": 40
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 40
+          },
+          {
+            "type": "node_id",
+            "id": 41
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 39
+          },
+          {
+            "type": "node_id",
+            "id": 42
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 42
+          },
+          {
+            "type": "node_id",
+            "id": 43
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 43
+          },
+          {
+            "type": "node_id",
+            "id": 55
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 56
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 56
+          },
+          {
+            "type": "node_id",
+            "id": 57
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "CraftingDataPacket"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"CraftingDataPacket\", typeName: \"\", id: 0, branchId: 52, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 1
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Crafting Entries"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Crafting Entries\", typeName: \"\", id: 1, branchId: 0, recurseId: -1, attributes: 8, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 2
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Array Size"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Array Size\", typeName: \"\", id: 2, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 3
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "unsigned varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"unsigned varint\", typeName: \"\", id: 3, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 4
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "example element"
+          },
+          {
+            "type": "attr",
+            "id": "style",
+            "eq": "dotted"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"example element\", typeName: \"\", id: 4, branchId: 0, recurseId: -1, attributes: 16, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 5
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Crafting Entry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Crafting Entry\", typeName: \"CraftingDataEntry\", id: 5, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 6
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "CraftingDataEntry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"CraftingDataEntry\", typeName: \"\", id: 6, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 7
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Potion Mixes"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Potion Mixes\", typeName: \"\", id: 7, branchId: 0, recurseId: -1, attributes: 8, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 8
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Array Size"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Array Size\", typeName: \"\", id: 8, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 9
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "unsigned varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"unsigned varint\", typeName: \"\", id: 9, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 10
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "example element"
+          },
+          {
+            "type": "attr",
+            "id": "style",
+            "eq": "dotted"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"example element\", typeName: \"\", id: 10, branchId: 0, recurseId: -1, attributes: 16, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 11
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Potion Mix Entry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Potion Mix Entry\", typeName: \"PotionMixDataEntry\", id: 11, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 25
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "PotionMixDataEntry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"PotionMixDataEntry\", typeName: \"\", id: 25, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 26
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Container Mixes"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Container Mixes\", typeName: \"\", id: 26, branchId: 0, recurseId: -1, attributes: 8, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 27
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Array Size"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Array Size\", typeName: \"\", id: 27, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 28
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "unsigned varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"unsigned varint\", typeName: \"\", id: 28, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 29
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "example element"
+          },
+          {
+            "type": "attr",
+            "id": "style",
+            "eq": "dotted"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"example element\", typeName: \"\", id: 29, branchId: 0, recurseId: -1, attributes: 16, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 30
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Container Mix Entry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Container Mix Entry\", typeName: \"ContainerMixDataEntry\", id: 30, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 38
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "ContainerMixDataEntry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"ContainerMixDataEntry\", typeName: \"\", id: 38, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 39
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Material Reducers"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Material Reducers\", typeName: \"\", id: 39, branchId: 0, recurseId: -1, attributes: 8, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 40
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Array Size"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Array Size\", typeName: \"\", id: 40, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 41
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "unsigned varint"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"unsigned varint\", typeName: \"\", id: 41, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 42
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "example element"
+          },
+          {
+            "type": "attr",
+            "id": "style",
+            "eq": "dotted"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"example element\", typeName: \"\", id: 42, branchId: 0, recurseId: -1, attributes: 16, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 43
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Material Reducer Entry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Material Reducer Entry\", typeName: \"MaterialReducerDataEntry\", id: 43, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 55
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "MaterialReducerDataEntry"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"MaterialReducerDataEntry\", typeName: \"\", id: 55, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 56
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Clear Recipes"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Clear Recipes\", typeName: \"\", id: 56, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 57
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "bool"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"bool\", typeName: \"\", id: 57, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "subgraph",
+        "children": [
+          {
+            "type": "attr_stmt",
+            "target": "graph",
+            "attr_list": [
+              {
+                "type": "attr",
+                "id": "rank",
+                "eq": "max"
+              }
+            ]
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 3
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 6
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 9
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 25
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 28
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 38
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 41
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 55
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 57
+            },
+            "attr_list": []
+          }
+        ]
+      }
+    ],
+    "id": "CraftingDataPacket"
+  }
+]

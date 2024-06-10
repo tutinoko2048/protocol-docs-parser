@@ -1,0 +1,432 @@
+[
+  {
+    "type": "digraph",
+    "children": [
+      {
+        "type": "attr_stmt",
+        "target": "graph",
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "rankdir",
+            "eq": "LR"
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 1
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 1
+          },
+          {
+            "type": "node_id",
+            "id": 2
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 3
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 3
+          },
+          {
+            "type": "node_id",
+            "id": 4
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 5
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 5
+          },
+          {
+            "type": "node_id",
+            "id": 6
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 7
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 7
+          },
+          {
+            "type": "node_id",
+            "id": 8
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 0
+          },
+          {
+            "type": "node_id",
+            "id": 9
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "edge_stmt",
+        "edge_list": [
+          {
+            "type": "node_id",
+            "id": 9
+          },
+          {
+            "type": "node_id",
+            "id": 18
+          }
+        ],
+        "attr_list": []
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 0
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "SpawnParticleEffectPacket"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"SpawnParticleEffectPacket\", typeName: \"\", id: 0, branchId: 118, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 1
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Dimension Id"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Dimension Id\", typeName: \"\", id: 1, branchId: 0, recurseId: -1, attributes: 0, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 2
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "byte"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"byte\", typeName: \"\", id: 2, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 3
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Actor Id"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Actor Id\", typeName: \"ActorUniqueID\", id: 3, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 4
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "ActorUniqueID"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"ActorUniqueID\", typeName: \"\", id: 4, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 5
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Position"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Position\", typeName: \"Vec3\", id: 5, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 6
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Vec3"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Vec3\", typeName: \"\", id: 6, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 7
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Effect Name"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Effect Name\", typeName: \"\", id: 7, branchId: 0, recurseId: -1, attributes: 0, notes: \"Should be an effect that exists on the client. No-op if the effect doesn't exist.\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 8
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "string"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"string\", typeName: \"\", id: 8, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 9
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "Molang Variables"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"Molang Variables\", typeName: \"std::optional<class MolangVariableMap>\", id: 9, branchId: 0, recurseId: -1, attributes: 256, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "node_stmt",
+        "node_id": {
+          "type": "node_id",
+          "id": 18
+        },
+        "attr_list": [
+          {
+            "type": "attr",
+            "id": "label",
+            "eq": "std::optional<class MolangVariableMap>"
+          },
+          {
+            "type": "attr",
+            "id": "comment",
+            "eq": "name: \"std::optional<class MolangVariableMap>\", typeName: \"\", id: 18, branchId: 0, recurseId: -1, attributes: 512, notes: \"\""
+          }
+        ]
+      },
+      {
+        "type": "subgraph",
+        "children": [
+          {
+            "type": "attr_stmt",
+            "target": "graph",
+            "attr_list": [
+              {
+                "type": "attr",
+                "id": "rank",
+                "eq": "max"
+              }
+            ]
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 2
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 4
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 6
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 8
+            },
+            "attr_list": []
+          },
+          {
+            "type": "node_stmt",
+            "node_id": {
+              "type": "node_id",
+              "id": 18
+            },
+            "attr_list": []
+          }
+        ]
+      }
+    ],
+    "id": "SpawnParticleEffectPacket"
+  }
+]
